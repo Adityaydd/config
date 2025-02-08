@@ -52,7 +52,7 @@ bindsym $mod+m exec --no-startup-id i3-msg bar mode toggle
 ##############################
 
 #border indicator on windows:
-new_window pixel 1
+new_window pixel 0
 
 # thin borders
 # hide_edge_borders both
