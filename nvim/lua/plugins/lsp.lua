@@ -152,7 +152,32 @@ return {
     --  - settings (table): Override the default settings passed when initializing the server.
     --        For example, to see the options for `lua_ls`, you could go to: https://luals.github.io/wiki/settings/
     local servers = {
-      clangd = {},
+      clangd = {
+        on_attach = function(client, bufnr)
+          -- Ensure clangd is the only formatter
+          client.server_capabilities.documentFormattingProvider = true
+
+          -- Create an augroup for formatting (avoids overwriting for multiple buffers)
+          local format_group = vim.api.nvim_create_augroup('LspFormatOnSave', { clear = false })
+
+          -- Auto-format C and C++ files on save
+          vim.api.nvim_create_autocmd('BufWritePre', {
+            group = format_group,
+            buffer = bufnr,
+            callback = function()
+              local ft = vim.bo.filetype
+              if ft == 'c' or ft == 'cpp' then
+                vim.lsp.buf.format { async = false }
+              end
+            end,
+          })
+
+          -- Keybinding: Manual format
+          vim.keymap.set('n', '<leader>f', function()
+            vim.lsp.buf.format { async = false }
+          end, { buffer = bufnr, desc = '[F]ormat the document' })
+        end,
+      },
       -- gopls = {},
       pyright = {},
       -- rust_analyzer = {},
