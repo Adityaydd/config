@@ -1,3 +1,4 @@
 [Added Associations]
 text/plain=org.x.editor.desktop;
 application/pdf=org.gnome.Evince.desktop;
+text/html=firefox.desktop;nvim.desktop;obsidian.desktop;
