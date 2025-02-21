@@ -23,4 +23,5 @@ require('lazy').setup {
   require 'plugins.nonels',
   require 'plugins.alpha',
   require 'plugins.gitsigns',
+  require 'plugins.luasnip',
 }
