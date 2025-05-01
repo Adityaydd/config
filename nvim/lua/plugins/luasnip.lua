@@ -9,6 +9,7 @@ return {
 
     -- Extend HTML filetype (optional but useful)
     luasnip.filetype_extend('html', { 'html' })
+    luasnip.filetype_extend('python', { 'python' })
 
     -- Load custom Lua snippets from ~/.config/nvim/lua/snippets/
     require('luasnip.loaders.from_lua').load { paths = '~/.config/nvim/lua/snippets/' }

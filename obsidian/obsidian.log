@@ -15,3 +15,156 @@
 2025-02-09 18:44:05 App is up to date.
 2025-02-09 18:44:28 Loading main app package /usr/lib/obsidian/obsidian.asar
 2025-02-09 18:44:29 Checking for update using Github
+2025-03-05 08:41:25 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-03-05 08:41:25 Checking for update using Github
+2025-03-05 08:41:26 Success.
+2025-03-05 08:41:26 Latest version is 1.8.7
+2025-03-05 08:41:26 App is up to date.
+2025-03-05 08:42:22 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-03-05 08:42:23 Checking for update using Github
+2025-03-05 08:42:23 Success.
+2025-03-05 08:42:23 Latest version is 1.8.7
+2025-03-05 08:42:23 App is up to date.
+2025-03-05 16:03:47 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-03-05 16:03:47 Checking for update using Github
+2025-03-05 16:03:48 Success.
+2025-03-05 16:03:48 Latest version is 1.8.9
+2025-03-05 16:03:48 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.9/obsidian-1.8.9.asar.gz
+2025-03-05 16:10:33 Failed to perform update
+2025-03-05 17:03:47 Checking for update using Github
+2025-03-05 17:03:47 Success.
+2025-03-05 17:03:47 Latest version is 1.8.9
+2025-03-05 17:03:47 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.8.9/obsidian-1.8.9.asar.gz
+2025-03-05 17:06:22 Verifying hash & signature. Size= 8125625
+2025-03-05 17:06:22 Saving file
+2025-03-05 17:06:23 Update complete.
+2025-03-05 18:03:47 Checking for update using Github
+2025-03-05 18:03:47 Failed to check for update using Github (net::ERR_INTERNET_DISCONNECTED)
+2025-03-05 18:03:47 Checking for update using obsidian.md
+2025-03-05 18:03:47 Failed to check for update using obsidian.md (net::ERR_INTERNET_DISCONNECTED)
+2025-03-05 19:03:47 Checking for update using Github
+2025-03-05 19:03:47 Success.
+2025-03-05 19:03:47 Latest version is 1.8.9
+2025-03-05 19:03:47 An update is already downloaded.
+2025-03-05 20:03:47 Checking for update using Github
+2025-03-05 20:04:03 Failed to check for update using Github (net::ERR_NETWORK_CHANGED)
+2025-03-05 20:04:03 Checking for update using obsidian.md
+2025-03-05 20:04:03 Failed to check for update using obsidian.md (net::ERR_NETWORK_CHANGED)
+2025-03-05 21:03:47 Checking for update using Github
+2025-03-05 21:03:47 Success.
+2025-03-05 21:03:47 Latest version is 1.8.9
+2025-03-05 21:03:47 An update is already downloaded.
+2025-03-05 22:03:47 Checking for update using Github
+2025-03-05 22:03:47 Success.
+2025-03-05 22:03:47 Latest version is 1.8.9
+2025-03-05 22:03:47 An update is already downloaded.
+2025-03-05 23:03:47 Checking for update using Github
+2025-03-05 23:03:47 Success.
+2025-03-05 23:03:47 Latest version is 1.8.9
+2025-03-05 23:03:47 An update is already downloaded.
+2025-03-06 00:03:47 Checking for update using Github
+2025-03-06 00:03:47 Failed to check for update using Github (net::ERR_INTERNET_DISCONNECTED)
+2025-03-06 00:03:47 Checking for update using obsidian.md
+2025-03-06 00:03:47 Failed to check for update using obsidian.md (net::ERR_INTERNET_DISCONNECTED)
+2025-03-06 01:03:47 Checking for update using Github
+2025-03-06 01:03:47 Failed to check for update using Github (net::ERR_INTERNET_DISCONNECTED)
+2025-03-06 01:03:47 Checking for update using obsidian.md
+2025-03-06 01:03:47 Failed to check for update using obsidian.md (net::ERR_INTERNET_DISCONNECTED)
+2025-03-06 02:03:47 Checking for update using Github
+2025-03-06 02:03:47 Failed to check for update using Github (net::ERR_INTERNET_DISCONNECTED)
+2025-03-06 02:03:47 Checking for update using obsidian.md
+2025-03-06 02:03:47 Failed to check for update using obsidian.md (net::ERR_INTERNET_DISCONNECTED)
+2025-03-06 03:03:47 Checking for update using Github
+2025-03-06 03:03:47 Failed to check for update using Github (net::ERR_INTERNET_DISCONNECTED)
+2025-03-06 03:03:47 Checking for update using obsidian.md
+2025-03-06 03:03:47 Failed to check for update using obsidian.md (net::ERR_INTERNET_DISCONNECTED)
+2025-03-08 10:33:40 Loading updated app package /home/samuel/.config/obsidian/obsidian-1.8.9.asar
+2025-03-08 10:33:41 Checking for update using Github
+2025-03-08 10:33:42 Success.
+2025-03-08 10:33:42 Latest version is 1.8.9
+2025-03-08 10:33:42 App is up to date.
+2025-03-08 11:33:40 Checking for update using Github
+2025-03-08 11:33:41 Success.
+2025-03-08 11:33:41 Latest version is 1.8.9
+2025-03-08 11:33:41 App is up to date.
+2025-03-08 12:33:40 Checking for update using Github
+2025-03-08 12:33:40 Failed to check for update using Github (net::ERR_INTERNET_DISCONNECTED)
+2025-03-08 12:33:40 Checking for update using obsidian.md
+2025-03-08 12:33:40 Failed to check for update using obsidian.md (net::ERR_INTERNET_DISCONNECTED)
+2025-03-08 13:33:40 Checking for update using Github
+2025-03-08 13:33:40 Failed to check for update using Github (net::ERR_INTERNET_DISCONNECTED)
+2025-03-08 13:33:40 Checking for update using obsidian.md
+2025-03-08 13:33:40 Failed to check for update using obsidian.md (net::ERR_INTERNET_DISCONNECTED)
+2025-03-08 14:33:40 Checking for update using Github
+2025-03-08 14:33:40 Failed to check for update using Github (net::ERR_INTERNET_DISCONNECTED)
+2025-03-08 14:33:40 Checking for update using obsidian.md
+2025-03-08 14:33:40 Failed to check for update using obsidian.md (net::ERR_INTERNET_DISCONNECTED)
+2025-03-08 15:33:40 Checking for update using Github
+2025-03-08 15:33:40 Failed to check for update using Github (net::ERR_INTERNET_DISCONNECTED)
+2025-03-08 15:33:40 Checking for update using obsidian.md
+2025-03-08 15:33:40 Failed to check for update using obsidian.md (net::ERR_INTERNET_DISCONNECTED)
+2025-03-08 15:38:49 Loading updated app package /home/samuel/.config/obsidian/obsidian-1.8.9.asar
+2025-03-08 15:38:49 Checking for update using Github
+2025-03-08 15:38:49 Failed to check for update using Github (net::ERR_INTERNET_DISCONNECTED)
+2025-03-08 15:38:49 Checking for update using obsidian.md
+2025-03-08 15:38:49 Failed to check for update using obsidian.md (net::ERR_INTERNET_DISCONNECTED)
+2025-03-09 11:05:13 Loading updated app package /home/samuel/.config/obsidian/obsidian-1.8.9.asar
+2025-03-09 11:05:13 Checking for update using Github
+2025-03-09 11:05:14 Success.
+2025-03-09 11:05:14 Latest version is 1.8.9
+2025-03-09 11:05:14 App is up to date.
+2025-03-09 12:05:13 Checking for update using Github
+2025-03-09 12:05:13 Failed to check for update using Github (net::ERR_INTERNET_DISCONNECTED)
+2025-03-09 12:05:13 Checking for update using obsidian.md
+2025-03-09 12:05:13 Failed to check for update using obsidian.md (net::ERR_INTERNET_DISCONNECTED)
+2025-03-10 13:45:08 Loading updated app package /home/samuel/.config/obsidian/obsidian-1.8.9.asar
+2025-03-10 13:45:09 Checking for update using Github
+2025-03-10 13:45:09 Success.
+2025-03-10 13:45:09 Latest version is 1.8.9
+2025-03-10 13:45:09 App is up to date.
+2025-03-10 14:45:08 Checking for update using Github
+2025-03-10 14:45:08 Failed to check for update using Github (net::ERR_INTERNET_DISCONNECTED)
+2025-03-10 14:45:08 Checking for update using obsidian.md
+2025-03-10 14:45:08 Failed to check for update using obsidian.md (net::ERR_INTERNET_DISCONNECTED)
+2025-03-10 15:45:08 Checking for update using Github
+2025-03-10 15:45:08 Failed to check for update using Github (net::ERR_INTERNET_DISCONNECTED)
+2025-03-10 15:45:08 Checking for update using obsidian.md
+2025-03-10 15:45:08 Failed to check for update using obsidian.md (net::ERR_INTERNET_DISCONNECTED)
+2025-03-10 16:45:08 Checking for update using Github
+2025-03-10 16:45:08 Failed to check for update using Github (net::ERR_INTERNET_DISCONNECTED)
+2025-03-10 16:45:08 Checking for update using obsidian.md
+2025-03-10 16:45:08 Failed to check for update using obsidian.md (net::ERR_INTERNET_DISCONNECTED)
+2025-03-17 13:01:51 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-03-17 13:01:51 Checking for update using Github
+2025-03-17 13:01:52 Failed to check for update using Github (net::ERR_INTERNET_DISCONNECTED)
+2025-03-17 13:01:52 Checking for update using obsidian.md
+2025-03-17 13:01:52 Failed to check for update using obsidian.md (net::ERR_INTERNET_DISCONNECTED)
+2025-03-17 13:09:22 Checking for update using Github
+2025-03-17 13:09:22 Failed to check for update using Github (net::ERR_INTERNET_DISCONNECTED)
+2025-03-17 13:09:22 Checking for update using obsidian.md
+2025-03-17 13:09:22 Failed to check for update using obsidian.md (net::ERR_INTERNET_DISCONNECTED)
+2025-03-17 13:10:21 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-03-17 13:10:22 Checking for update using Github
+2025-03-17 13:10:22 Success.
+2025-03-17 13:10:22 Latest version is 1.8.9
+2025-03-17 13:10:22 App is up to date.
+2025-03-17 13:10:52 Checking for update using Github
+2025-03-17 13:10:52 Success.
+2025-03-17 13:10:52 Latest version is 1.8.9
+2025-03-17 13:10:52 App is up to date.
+2025-03-17 13:10:54 Checking for update using Github
+2025-03-17 13:10:54 Success.
+2025-03-17 13:10:54 Latest version is 1.8.9
+2025-03-17 13:10:54 App is up to date.
+2025-03-20 18:27:37 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-03-21 23:27:33 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-03-31 10:28:19 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-04-03 18:35:52 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-04-03 18:59:27 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-04-04 14:38:52 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-04-06 14:20:06 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-04-13 09:20:10 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-04-13 09:20:56 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-04-13 09:32:24 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-04-15 18:12:04 Loading main app package /usr/lib/obsidian/obsidian.asar
+2025-04-19 19:43:58 Loading main app package /usr/lib/obsidian/obsidian.asar
