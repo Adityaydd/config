@@ -11,6 +11,7 @@ application/x-extension-shtml=firefox.desktop;zen.desktop;
 application/xhtml+xml=firefox.desktop;zen.desktop;
 application/x-extension-xhtml=firefox.desktop;zen.desktop;
 application/x-extension-xht=firefox.desktop;zen.desktop;
+image/gif=userapp-mpv-2QVB72.desktop;userapp-mov-90J962.desktop;
 
 [Default Applications]
 x-scheme-handler/http=zen.desktop

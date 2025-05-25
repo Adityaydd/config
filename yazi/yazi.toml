@@ -1,7 +1,0 @@
-[opener]
-[opener.html]
-run = '"usr/bin/zen-browser" "$@"'
-desc = "Open in Zen Browser"
-
-[mime]
-"text/html" = "html"
