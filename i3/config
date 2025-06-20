@@ -297,7 +297,7 @@ bindsym $mod+p exec --no-startup-id /usr/local/bin/switch-audio-port
 ## App shortcuts
 bindsym $mod+w exec --no-startup-id /usr/bin/zen-browser
 bindsym $mod+n exec --no-startup-id /usr/bin/thunar
-bindsym $mod+c exec --no-startup-id /usr/bin/evince
+bindsym $mod+c exec --no-startup-id /usr/bin/zathura
 bindsym Print exec --no-startup-id scrot ~/Pictures/screenshots/%Y-%m-%d-%T-screenshot.png && notify-send "Screenshot saved to ~/$(date +"%Y-%m-%d-%T")-screenshot.png"
 
 # Power Profiles menu switcher (rofi)
@@ -333,14 +333,14 @@ set $ws10 "10"
 assign [class="kitty"] $ws1
 assign [class="zen"] $ws2
 assign [class="Thunar"] $ws3
-assign [class="Evince"] $ws4
+assign [class="Zathura"] $ws4
 assign [class="TelegramDesktop"] $ws5
 
 # automatic set focus new window if it opens on another workspace than the current:
 for_window [class=kitty] focus
 for_window [class=zen] focus
 for_window [class=Thunar] focus
-for_window [class=Evince] focus
+for_window [class=Zathura] focus
 for_window [class=TelegramDesktop] focus
 
 ##############
@@ -405,7 +405,7 @@ exec --no-startup-id ~/.screenlayout/monitor.sh
 
 # set wallpaper
 # exec --no-startup-id sleep 2 && nitrogen --restore
-exec --no-startup-id sleep 1 && feh --bg-fill ~/Pictures/wallpapers/nuns.jpg
+exec --no-startup-id sleep 1 && feh --bg-fill ~/Pictures/wallpapers/tokyo-night33.png
 
 # set powersavings for display:
 exec --no-startup-id xset s 480 dpms 600 600 600
