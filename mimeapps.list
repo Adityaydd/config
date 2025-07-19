@@ -1,6 +1,6 @@
 [Added Associations]
 text/plain=org.x.editor.desktop;
-application/pdf=org.gnome.Evince.desktop;
+application/pdf=org.gnome.Evince.desktop;org.pwmt.zathura-pdf-poppler.desktop;
 text/html=firefox.desktop;nvim.desktop;obsidian.desktop;zen.desktop;
 x-scheme-handler/http=firefox.desktop;zen.desktop;
 x-scheme-handler/https=firefox.desktop;zen.desktop;
@@ -12,6 +12,7 @@ application/xhtml+xml=firefox.desktop;zen.desktop;
 application/x-extension-xhtml=firefox.desktop;zen.desktop;
 application/x-extension-xht=firefox.desktop;zen.desktop;
 image/gif=userapp-mpv-2QVB72.desktop;userapp-mov-90J962.desktop;
+text/x-csrc=org.x.editor.desktop;
 
 [Default Applications]
 x-scheme-handler/http=zen.desktop

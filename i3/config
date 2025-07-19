@@ -334,6 +334,7 @@ assign [class="kitty"] $ws1
 assign [class="zen"] $ws2
 assign [class="Thunar"] $ws3
 assign [class="Zathura"] $ws4
+assign [class="Evince"] $ws4
 assign [class="TelegramDesktop"] $ws5
 
 # automatic set focus new window if it opens on another workspace than the current:
@@ -405,7 +406,7 @@ exec --no-startup-id ~/.screenlayout/monitor.sh
 
 # set wallpaper
 # exec --no-startup-id sleep 2 && nitrogen --restore
-exec --no-startup-id sleep 1 && feh --bg-fill ~/Pictures/wallpapers/tokyo-night33.png
+exec --no-startup-id sleep 1 && feh --bg-fill ~/Pictures/wallpapers/rails.jpg
 
 # set powersavings for display:
 exec --no-startup-id xset s 480 dpms 600 600 600
